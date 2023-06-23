@@ -13,3 +13,6 @@ def method_2():
 
 def method_3():
     return 0
+
+def add_func():
+    return
