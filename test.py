@@ -14,8 +14,14 @@ def method_2():
 def method_3():
     return 0
 
+def add_func():
+    return
+
 def method_4():
     return 0
+<<<<<<< HEAD
 
 def method_5():
     return 0
+=======
+>>>>>>> 9789ac98c71d090598ad262fd148fbe60bd2fcfb
