@@ -16,3 +16,6 @@ def method_3():
 
 def method_4():
     return 0
+
+def method_5():
+    return 0
