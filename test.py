@@ -1,4 +1,7 @@
-# init
+VERSION=1.0
+
+def __version__():
+    return VERSION
 
 a = 0
 b = 1
@@ -19,9 +22,6 @@ def add_func():
 
 def method_4():
     return 0
-<<<<<<< HEAD
 
 def method_5():
     return 0
-=======
->>>>>>> 9789ac98c71d090598ad262fd148fbe60bd2fcfb
