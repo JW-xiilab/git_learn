@@ -2,7 +2,7 @@ def main():
     return
 
 def inference():
-    return
+    return 11111
 
 def c():
     return
